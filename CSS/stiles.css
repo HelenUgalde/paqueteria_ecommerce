@@ -1,0 +1,44 @@
+#columna1, #columna2, #columna3{    
+    float: left;
+    width: 30%;
+    margin: 1%;
+    box-sizing: border-box;
+    padding: 10px;
+
+}
+#columna1
+{
+    background-color: rgb(255, 255, 255);
+    text-align:left;
+}
+#columna2
+{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    
+}
+#columna3
+{
+    background-color: rgb(255, 255, 255);
+}
+#contenedor
+{
+    overflow: hidden;
+    background-color: #fff;
+}
+input{
+border: 2px solid rgba(255, 0, 200, 0.797);
+font-size: 25px;
+}
+button {
+    background-color: rgba(255, 0, 200, 0.797); /* color de fondo */
+    color: white; /* color del texto */
+    padding: 10px 20px; /* relleno */
+    border: none; /* borde */
+    border-radius: 5px; /* borde redondeado */
+    cursor: pointer; /* cambio de cursor al pasar por encima */
+  }
+  select{
+    border: 2px solid rgba(255, 0, 200, 0.797);
+    font-size: 25px;
+  }

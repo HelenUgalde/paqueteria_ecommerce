@@ -1,0 +1,26 @@
+.container {
+    width: 700px; /* Ancho del contenedor */
+    margin: 0 auto; /* Establece los márgenes laterales automáticos */
+    text-align: center; /* Centra el contenido de forma horizontal */
+    background-color: aliceblue;
+    text-align: center;
+  }
+  body{
+    background-image: url(https://agriculturers.com/wp-content/uploads/2020/01/Cambio-climatico-y-la-carrera-por-plantas-arboles.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align:center;
+  }
+
+  th, td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+  }
+a{
+color: #ddd;
+}
+  
